@@ -1,0 +1,21 @@
+{
+  "locations": ["United States"],
+  "titles": ["Founder", "CEO"],
+  "industries": ["Fintech"],
+  "keywords": ["blockchain", "crypto"],
+  "topic_match_mode": "any",
+  "industry_synonyms": {
+    "Fintech": ["financial technology", "fintech startup", "payments company", "financial services"]
+  },
+  "keyword_synonyms": {
+    "blockchain": ["Web3", "DeFi", "distributed ledger"],
+    "crypto": ["cryptocurrency", "digital assets", "token"]
+  },
+  "company_size_min": null,
+  "company_size_max": null,
+  "age_min": 22,
+  "age_max": 45,
+  "target_count": 50,
+  "exclude_keywords": ["student", "intern"],
+  "name": "fintech_blockchain_founders"
+}

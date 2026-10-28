@@ -1,0 +1,26 @@
+{
+  "locations": ["United States"],
+  "titles": ["Founder", "CEO", "CTO", "Co-Founder", "Partner"],
+  "industries": ["SaaS"],
+  "keywords": ["AI", "automation"],
+  "topic_match_mode": "any",
+  "title_synonyms": {
+    "Founder": ["Founding Partner", "Co-Founder & CEO", "Founder & CEO"],
+    "CEO": ["Chief Executive Officer", "CEO Coach"],
+    "CTO": ["Chief Technology Officer", "VP Engineering", "VP of Engineering", "Technology Executive", "Chief Information Officer"]
+  },
+  "industry_synonyms": {
+    "SaaS": ["software", "software company", "cloud software", "cloud platform", "tech startup", "technology company", "platform"]
+  },
+  "keyword_synonyms": {
+    "AI": ["artificial intelligence", "machine learning", "ML", "AI-powered"],
+    "automation": ["workflow automation", "process automation", "RPA", "automated"]
+  },
+  "company_size_min": null,
+  "company_size_max": null,
+  "age_min": 22,
+  "age_max": 45,
+  "target_count": 50,
+  "exclude_keywords": [],
+  "name": "saas_ai_founders"
+}
